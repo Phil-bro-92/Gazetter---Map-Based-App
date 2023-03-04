@@ -9,9 +9,8 @@ Live at: https://www.philmbroadley.co.uk/gazetteer/
 ## Languages / Frameworks / Libraries
 
 1. JavaScript / jQuery
-2. PostgreSQL
-3. HTML / CSS / Bootstrap
-4. PHP
+2. HTML / CSS / Bootstrap
+3. PHP
 
 ## Brief
 
